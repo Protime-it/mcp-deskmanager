@@ -23,7 +23,7 @@ No port forwarding, no fixed IP, no config files to edit.
 
 1. **Install** the setup on the PC you want to control (Windows 10/11, about 10 minutes).
 2. The installer opens an **encrypted Cloudflare tunnel** with HTTPS and authentication, and gives you a private address.
-3. **Paste the address** into Claude (Settings → Connectors → Add custom connector) or ChatGPT (developer mode → connectors). Done.
+3. **Paste the address** into Claude (Customize → Connectors → + Add → Add custom connector) or ChatGPT (developer mode → connectors). Done.
 
 ![Adding the custom connector in Claude](images/connector.png)
 
