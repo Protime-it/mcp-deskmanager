@@ -13,7 +13,7 @@ Install it on the machine you want to control, paste its private address into Cl
 as a custom connector, and every chat — web, desktop or phone — can operate that computer.
 No port forwarding, no fixed IP, no config files to edit.
 
-👉 **[Product page, guides and download → protime.it](https://protime.it/en/deskmanager/)**
+👉 **[Start the free 7-day trial](https://protime.it/en/deskmanager/prova/)** (no card) · [Product page, plans and download → protime.it](https://protime.it/en/deskmanager/)
 
 ![MCP DeskManager ready to use](images/ready.png)
 
@@ -80,18 +80,18 @@ Current plans and prices: **[protime.it/en/deskmanager](https://protime.it/en/de
 
 ## Guides
 
+- [What is an MCP server: how it works and how to use it (complete guide)](https://protime.it/en/deskmanager/blog/what-is-an-mcp-server/)
 - [MCP server on Windows: every option compared](https://protime.it/en/deskmanager/blog/remote-mcp-server-windows-no-port-forwarding/)
 - [Install MCP on Windows: 4 methods, easiest first](https://protime.it/en/deskmanager/blog/install-mcp-server-windows-easy/)
 - [Control your PC with Claude: every way compared](https://protime.it/en/deskmanager/blog/control-windows-pc-from-claude-chat/)
 - [Control your PC from your phone with AI](https://protime.it/en/deskmanager/blog/control-pc-from-phone-with-ai/)
-- [Claude Desktop remote MCP: connectors vs extensions](https://protime.it/en/deskmanager/blog/claude-desktop-remote-mcp-server/)
 - [ChatGPT MCP on Windows](https://protime.it/en/deskmanager/blog/chatgpt-mcp-windows/)
 - [Documentation](https://protime.it/en/deskmanager/docs/) · [Download](https://protime.it/en/deskmanager/download/)
 - For AI agents: [`llms.txt`](https://protime.it/llms.txt) · [`llms-full.txt`](https://protime.it/llms-full.txt)
 
 ## Support
 
-Open an issue in this repository, or use the chat assistant on [protime.it](https://protime.it/en/deskmanager/).
+Write to **support@protime.it**, or use the chat assistant on [protime.it](https://protime.it/en/deskmanager/).
 
 ---
 
